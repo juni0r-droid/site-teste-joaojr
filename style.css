@@ -34,3 +34,10 @@ img{
     width: 300px;
     
 }
+
+a {
+    color: aqua;
+    background-color: rgb(145, 66, 220);
+    border-radius: 30px;
+    font-size: 20px;
+}
